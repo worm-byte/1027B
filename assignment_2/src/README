@@ -1,0 +1,3 @@
+In this assignment, we used doubly-linked data structures to store numbers of any
+number system. Each digit is stored in a separate node and connected to the next and
+previous nodes.
