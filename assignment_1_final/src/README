@@ -1,2 +1,4 @@
 This assignment was to create a simple Letter Crush game where when 3 or more of the same characters are selected, they will disappear and the characters above
 will fall down into their place.
+
+I made Line.java and LetterCrush.java.
