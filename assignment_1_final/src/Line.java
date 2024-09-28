@@ -1,5 +1,4 @@
 /**
- CS1027B Assignment 1 rscully5
  This class defines a line and can test different attributes of the line.
  */
 
