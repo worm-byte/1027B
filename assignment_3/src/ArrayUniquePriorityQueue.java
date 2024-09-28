@@ -1,6 +1,4 @@
 /*
- * CS1027B rscully5 Assignment 3
- * March 11, 2024
  * This class can create a UniquePriorityQueue 
  * using an array.It implements UniquePriorityQueueADT
  * and can be used with any data type.
