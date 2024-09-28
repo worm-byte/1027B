@@ -1,6 +1,4 @@
 /*
- * CS1027B rscully5 Assignment 3
- * March 11, 2024
  * This class finds the best path for Freddy to take
  * given a file of a map.
  * 
