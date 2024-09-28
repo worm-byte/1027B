@@ -1,8 +1,6 @@
 
 
 /**
- * CS1027B Assignment 2 rscully5
- * February 18, 2024
  * This class makes a double linked number of any base between 2 - 16.
  * You can do things to the number, like getters, test if it's
  * valid for the base number, see if it equals another Linked Number, see 
