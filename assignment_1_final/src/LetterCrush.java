@@ -1,5 +1,4 @@
 /**
- CS1027B Assignment 1 rscully5
  This class defines a grid of characters which can be manipulated to remove rows or columns
  of characters that have 3 or more of the same character in a row.
  */
